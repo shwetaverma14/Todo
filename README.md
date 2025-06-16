@@ -1,8 +1,5 @@
 # Todo List App 📝
 
-## Preview 👁️
-![preview of todoapp](https://github.com/vinodjangid07/Celebal-intern-weektwo/assets/86096184/7c9a5ccd-5bd6-4b63-b4a5-9fb0d43ecdbb)
-
 
 ## Overview 🌟
 
@@ -33,7 +30,7 @@ This project is a simple Todo List application built using React as a part of th
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/vinodjangid07/Celebal-intern-weektwo.git
+    git clone https://github.com/shwetaverma14/Todo.git
     ```
 
 2. Install dependencies:
